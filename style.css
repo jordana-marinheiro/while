@@ -1,0 +1,10 @@
+html{
+    background-color: #f4aaf2;
+  }
+  h1{
+    background-color: #e4cc60;
+    color: #27203b;
+    display: flex;
+    justify-content: center; 
+    padding: 20px;  
+  }
